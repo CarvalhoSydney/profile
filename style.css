@@ -1,0 +1,49 @@
+h1{
+	color: #e63946;
+	font-family: 'Inconsolata', monospace;
+background-color: #f1faee;
+}
+
+h2{
+	color: #1d3557;
+	font-family: 'Inconsolata', monospace;
+}
+
+h3{
+	color: #1d3557;
+	font-family: 'Inconsolata', monospace;
+}
+
+body{
+	background-color: #f8edeb
+}
+
+.intro{
+	width: 800px;
+	padding: 1px 1px;
+	margin: 0 auto;
+	padding: 2px 30px;
+}
+
+.titre{
+	width: 800px;
+	margin: 0 auto;
+	padding: 2px 2px;
+	border-radius: 5px;
+	background-color: #f1faee;
+	box-shadow: 5px 5px 5px #1d3557;
+}
+.corps-text{
+	width: 800px;
+	background-color: #f1faee;
+	border-radius: 10px;
+	margin: 20 auto;
+	padding: 2px 50px;
+	box-shadow: 5px 5px 5px #1d3557;
+}
+
+.separation{
+	text-align: center;
+	font-size: 25px;
+	color: #1d3557;
+}
